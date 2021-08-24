@@ -1,0 +1,28 @@
+h1{
+    margin-bottom: 30px;
+    color: black;
+    text-decoration: underline;
+}
+input{
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    background-color: rgba(37, 169, 192, 0.568);
+    border: solid;
+    font-weight: bold;
+}
+button{
+    margin-bottom: 20px;
+    background-color: rgba(13, 167, 133, 0.651);
+    font-weight: bold;
+}
+hr{
+    margin-bottom: 15px;
+}
+body{
+    background-color: rgb(105, 172, 119);
+}
+#main-nav{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: medium;
+}
